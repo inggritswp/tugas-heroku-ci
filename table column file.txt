@@ -1,0 +1,4 @@
+tabel users :
+id (integer, auto increment, not null, pk)
+email (text)
+password (text)
