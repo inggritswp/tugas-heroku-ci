@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: CodeIgniter with PostgreSQL CRUD",
+  "description": "CodeIgniter with PostgreSQL CRUD",
+  "repository": "https://github.com/ahmadsobri/ci-crud",
+  "addons": []
+}
